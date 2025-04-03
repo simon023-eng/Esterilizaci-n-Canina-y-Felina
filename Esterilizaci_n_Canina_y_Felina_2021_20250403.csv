@@ -1,0 +1,401 @@
+No.,Nom. Propietario,Vereda/Barrio,Tipo,Sexo,Nombre del Animal,Raza,Peso,Edad
+1,Adriana Lopez,Vereda Los robles,Canino,Hembra,Negra,Criollo,13 Kg Aprox.,6 Años
+2,Adriana Lopez,Vereda Los robles,Canino,Hembra,Venus,Labrador / Criollo,17 Kg Aprox.,12 Años
+3,Adriana Lopez,Vereda Los robles,Canino,Hembra,Daniela,Criollo,8 Kg Aprox.,6 Meses
+4,Alba Maria Forero,Vereda Alto semisa,Canino,Hembra,Shar,Criollo,6 Kg Aprox.,2 Años
+5,Alba Maria Forero,Vereda Alto semisa,Felino,Hembra,Gotica,Criollo,3 kg Aprox.,6 Meses
+6,Alba Rosa Fajardo Gomez,La Lajita,Canino,Hembra,Pacha,Criollo,No aplica,2 Años
+7,Alberto Arias Poveda,Vereda Alto Sandimas,Canino,Hembra,Manchas,Criollo,18 Kg Aprox.,6 Años
+8,Alejandro Pérez Caro,Vereda Semisa,Canino,Hembra,Niña,Labradora,25 Kg Aprox.,11 Meses
+9,Alejandro Pérez Caro,Vereda Popoa Sur,Felino,Hembra,Mechitas,Criollo,2 Kg Aprox.,4 Meses
+10,Alexis Diagama,Vereda Bajo Cantano,Canino,Hembra,Atena,Criollo,7 Kg Aprox.,No aplica
+11,Alexis Guerrero,Vereda Bajo Sandimas,Canino,Hembra,Alaska,Criollo,12.5 Kg Aprox.,10 Meses
+12,Alfredo Pacheco Forero,Vereda Peñitas,Canino,Hembra,Katty,Cruce con Pincher,12 LB Aprox,4 Años
+13,Alfredo Pacheco Forero,Vereda Peñitas,Canino,Hembra,Muñeca,Cruce con Pincher,10 Lb Aprox,3 Años
+14,Alfredo Pacheco Forero,Vereda Peñitas,Canino,Hembra,Kiara,Cruce con Pincher,11 Lb Aprox,3 Años
+15,Alfredo Pacheco Forero,Vereda Peñitas,Felino,Hembra,Michi,Cruce con Pincher,5 Lb Aprox,1 Año
+16,Ana Lourdes Pineda,Barrio Nuevo Portal,Felino,Hembra,Michugu,Criollo,2 Kg Aprox.,5 años
+17,Ana Lourdes Pineda,Barrio Nuevo Portal,Felino,Macho,Michin,Criollo,800 gr Aprox.,6 Meses
+18,Alicia Burgos,Medios Sanrita,Canino,Hembra,Sacha,Criollo,No aplica,5 Meses
+19,Alicia Burgos,Medios Sanrita,Canino,Hembra,Candy,Criollo,No aplica,5 Meses
+20,Andres Camilo Ruiz Gonzalez,Vereda Rincon,Felino,Macho,Minchis,Criollo,2 Kg Aprox.,2 Años
+21,Andres Felipe Mendoza Zuñiga,Puente Nacional,Felino,Macho,Ashpion,Criollo,No aplica,8 Meses
+22,Alvaro Hernan Forero,Barrio Chico,Canino,Hembra,Luna,Criolla,18 Kg Aprox.,3 Años
+23,Amparo Acuña Martinez,Barrio la Orquidea,Canino,Hembra,Luna,Criollo,3 Kg Aprox.,4 Meses
+24,Argemiro Triana,Vereda Alto semisa,Canina,Hembra,Kira,Criollo,8 Kg Aprox.,8 Meses
+25,Argemiro Triana,Vereda Alto semisa,Canina,Hembra,Cloid,Criollo,8 Kg Aprox.,8 Meses
+26,Ana Fernanda Cuadrado,Vereda la Cuchilla,Canino,Hembra,Luna,Cocker,10 Kg Aprox.,3 Años
+27,Ariel Martinez,Vereda Bajo Sandimas,Felino,Hembra,Pepa,Criolla,2 kg Aprox.,4 Años
+28,Ana Maria Cubides Mayoral,Vereda Alto semisa,Canino,Hembra,Roma,Criollo,7 Kg Aprox.,1 Año
+29,Azucena Valder Alvarez,Vereda Alto sandima,Felino,Hembra,Lupita,Criollo,No aplica,6 Meses
+30,Ana Yaneth Ariza Romero,Vereda Rincon,Canino,Macho,Patas,Criollo,12.5 lb,2 años
+31,Andrea Juliana Gonzalez,Barrio Alto del chico,Canino,Macho,Kailoes,Criollo,10 Kg Aprox.,1 Año y medio
+32,Andrea Velasco,Vereda Peñitas,Canino,Hembra,Mona,Labradora,20 Kg Aprox.,4 Años
+33,Andres Kamilo Ruiz Gonzalez,Vereda el Rincon,Canino,Macho,Toby,Coquer,14 Kg Aprox.,6 Años
+34,Carlos Julio Cubides Moreno,Vereda Bajo Guamito,Felino,Hembra,Cati,Criollo,2 kg Aprox.,4 Años
+35,Anibel Rodriguez,Barrio Recreo,Canino,Hembra,Niña,schnauzer,10 Kg Aprox.,16 Meses
+36,Ariel Martinez,Vereda Bajo Sandimas,Canino,Hembra,Pantera,criollo,3 kg Aprox.,6 meses
+37,Carlos Quiroga,Medios Sanrita,Felino,Hembra,Michi,Criollo,No aplica,15 Meses
+38,Carlota Bernal,Barrio Santander,Felino,Hembra,Kira,Criollo,4 Kg Aprox.,14 Meses
+39,Carlota Bernal,Barrio Santander,Felino,Macho,Ramon,Criollo,No aplica,9 Meses
+40,Armando Saenz,Vereda Petaqueros,Canino,Hembra,Joli,Criollo,6 Lb,18 Meses
+41,Armando Saenz,Vereda Petaqueros,Canino,Hembra,Lulita,Criollo,7 Lb,18 Meses
+42,Ausberto Cruz,Barrio Nogales,Canino,Hembra,Negra,Criollo,8 Kg Aprox.,
+43,Claudia Esperanza Guarin,Vereda Rincon,Felino,Hembra,Chilindrina,Criollo,No aplica,6 Meses
+44,Claudia Fandiño,Barrio Progreso,Felino,Hembra,Nieve,Criollo,2 Kg Aprox.,1 Año
+45,Claudia Guarin,Vereda Rincon,Felino,Hembra,Chilindrina,Criollo,1.600 gr Aprox.,6 Meses
+46,Claudia Hernandez,Vereda peñitas,Felino,Macho,Michi,Criollo,2 Lb,6 Meses
+47,Azucena Valder Alvarez,Vereda Alto sandima,Canino,Hembra,Panela,Criollo,No aplica,1 Año
+48,Baudilio Moreno,La Puentanita,Canino,Hembra,Mara,Criollo,5 Kg Aprox.,2 Años
+49,Berta Libia Coy,Vereda Alto semisa,Canino,Macho,Max,Criollo,10 lb,6 Meses
+50,Berta Libia Coy,Vereda Alto semisa,Canino,Hembra,Sacha,Criollo,10 lb,6 Meses
+51,Blanca Tellez,Vereda Popoita,Canino,Hembra,Lulu,Criolla,No aplica,
+52,Constanza Romero,Vereda Peñitas,Felino,Hembra,Lulu,Criollo,No aplica,7 Meses
+53,Candy Rosa Gomez,Vereda Rincon,Canino,Hembra,Negra,Criollo,4 Kg Aprox.,1 Año
+54,Deisy Biviana Martinez,Vereda Río Suarez,Felino,Hembra,Mimi,Criollo,1 Kg Aprox.,9 Meses
+55,Carlos Andres,Medios Santa rita,Canino,Hembra,Lasi,Criollo,4 Kg Aprox.,
+56,Diana Carolina Castañeda Poveda,Vereda Alto Semisa,Canina,Hembra,Laila,Criollo,4 Kg Aprox.,3 Años
+57,Diana Carolina Castañeda Poveda,Vereda Alto Semisa,Canina,Hembra,Polet,Criollo,4 Kg Aprox.,1 Año
+58,Carlos Daniel Garcia Camacho,Barrio Nogales,Canino,Hembra,Kiara,Criolla,5 Kg Aprox.,6 Meses
+59,Carlos Julio Cubides Moreno,Vereda Bajo Guamito,Canino,Hembra,Pelucas,Criollo,5 Kg Aprox.,5 Años
+60,Doralba Flores,,Felino,Hembra,Muñeca,Criollo,3 Kg Aprox.,3 Años
+61,Carlos Parra Masmela,Barrio el Progreso,Canino,Hembra,Nova,French Poodle,5 Kilos Aprox.,7 Meses
+62,Carmenza Santamaria,Barrio Nogales,Canino,Hembra,Sombra,Criollo,No aplica,1 Año
+63,Cecilia Virviezcas,Vereda Bajo Guamito,canino,Hembra,Muñeca,Criollo,4 Kg Aprox.,9 meses
+64,Cielo Aguilera Lopez,Vereda Alto capilla,Canino,Hembra,Coronela,Criollo,14 Lb,1 año y medio
+65,Edith Lorena Piñarete Camacho,Altos de chico,Felino,Macho,Cloy,Criollo,No aplica,9 Meses
+66,Clara Ines Leon Pardo,Semisa,Canino,Hembra,Paloma,Criollo,No aplica,6 Años
+67,Clara Ines Leon Pardo,Semisa,Canino,Hembra,Duquesa,Criollo,6 Kg Aprox.,1 año y 4 meses
+68,Clara Ines Leon Pardo,Semisa,Canino,Hembra,Milu,Pincher,3 Kg Aprox.,7 Años
+69,Claudia  Villamil,Vereda Bajo semisa,Canino,Hembra,Lisa,Criollo,20 Kg Aprox.,10 Meses
+70,Claudia Milena Valbuena Vargas,Vereda Bajo Cantano,Canino,Hembra,Niña,Criollo,8 LB Aprox.,4 Años
+71,Emilce Hurtado,Vereda Bajo Cantano,Felino,Hembra,Muñeca,Criollo,3 Kg Aprox.,3 Años
+72,Claudia Milena Valbuena Vargas,Vereda Bajo Cantano,Canino,Hembra,Cucaracha,Criollo,6 Lb Aprox.,3 Años
+73,Claudia Patricia Ruiz Olarte,Agua Blanca,Canino,Macho,Macarena,Labrador / Criollo,20 Kg Aprox.,9 Años
+74,Claudia Vazquez,Barrio leilio olarte,Canino,Hembra,Nina,Criollo,10 Kg Aprox.,6 Meses
+75,Claudia Viviana Pinzón Jiménez,Vereda Alto Semisa,Canino,Hembra,Muñeca,Akita,7 Kg Aprox.,6 Meses
+76,Evangelina Quiroga,Vereda Semisa,Felino,Hembra,Minina,Criollo,2 Kg Aprox.,3 Meses
+77,Deisy Biviana Martinez,Vereda Río Suarez,Canino,Hembra,Marta,Criollo,4 Kg Aprox.,1 año
+78,Diana Carolina Castañeda Poveda,Vereda Alto Semisa,Canino,Hembra,Jachi,Criollo,8 Kg Aprox.,3 años
+79,Ferzanin Gonzalez,Medios Sanrita,Felino,Hembra,Bella,Criollo,No aplica,13 Meses
+80,Ferzanin Gonzalez,Medios Sanrita,Felino,Hembra,Muñeca,Criollo,No aplica,5 Meses
+81,Diana Carolina Garcia,Vereda Bajo Guamito,Canino,Hembra,Luna,Criollo,15 Kg Aprox.,2 Años
+82,Diana Vargas,Barrio camacho gamba,Canino,Hembra,Tammy,Shitzu,No aplica,2 Años
+83,Diana Vargas,Barrio Camacho Gamba,Canino,Hembra,Tammy,Shitzu,No aplica,2 Años
+84,Doralba Flores,,Canino,Hembra,Canela,Criollo,15 Kg Aprox.,3 Años
+85,Francy Jazmin Ariza Sanchez,Vereda Rincon,Felino,Hembra,Pelusa,Criollo,No aplica,3 Años
+86,Edgar Manuel Tobar,Vereda Semisa,Canino,Hembra,Mona,Criollo,5 Kg Aprox.,18 Meses
+87,Edgar Manuel Tobar,Vereda Semisa,Canino,Hembra,Luna,Criollo,5 Kg Aprox.,18 Meses
+88,Fredy Florido,Vereda Semisa,Felino,Hembra,Paz,Criollo,No aplica,1 Año
+89,Gabriel Peña,Medios Sanrita,Felino,Hembra,Pacha,Criollo,No aplica,16 Meses
+90,Edgar Manuel Tobar,Vereda Semisa,Canino,Hembra,Niña,Criollo,5 Kg Aprox.,18 Meses
+91,Edna Maria Ochoa,Vereda Bajo Semisa,Canino,Hembra,Martina,Criollo,4 Kg,4 Años
+92,Giovanny Ariza,Medios Sanrita,Felino,Macho,titan,Criollo,No aplica,16 Meses
+93,Giovanny Ariza,Medios Sanrita,Felino,Hembra,Titui,Criollo,No aplica,6 Meses
+94,Eli Poveda Poveda,Vereda Peñitas,Canino,Macho,Terry,Fresh Poodle,"3,5 kg",3 años y 6 meses
+95,Gladys Marin,Vereda Rincon,Felino,Hembra,Chispas,Criollo,1.500 gr Aprox.,5 Meses
+96,Eli Poveda Poveda,Vereda Peñitas,Canino,Hembra,Milu,Fresh Poodle,2 Kg Aprox.,1 año y 4 meses
+97,Elizabeth Ruiz Ariza,Vereda Alto semisa,Canino,Hembra,Cocacola,Criollo,9 Kg Aprox.,9 Meses
+98,Ella Cecilia Carrillo Celis,Barrio leilio olarte,Canino,Macho,Zeus,Criollo,,1 Año
+99,Gloria Martinez,Vereda Rio Suarez,Felino,Hembra,Gorda,Criolla,2 Kg Aprox.,2 Años
+100,Gloria Martinez,Vereda Rio Suarez,Felino,Hembra,Chanwis,Criolla,2 Kg Aprox.,20 Meses
+101,Griselda Suarez,Vereda Semisa,Felino,Hembra,Sacha,Criollo,No aplica,2 Años
+102,Griselda Suarez,Vereda Semisa,Felino,Hembra,Blanca,Criollo,No aplica,2 Años
+103,Griselda Suarez,Vereda Semisa,Felino,Hembra,Morena,Criollo,No aplica,2 Años
+104,Ella Cecilia Carrillo Celis,Barrio leilio olarte,Canino,Macho,Doki,Criollo,3 Kg Aprox.,4 Años
+105,Ella Cecilia Carrillo Celis,Barrio leilio olarte,Canino,Macho,Mono,Criollo,No aplica,4 Años
+106,Elsa Soler,Vereda Montes,Canino,Hembra,Laica,Criollo,No aplica,8 Meses
+107,Elsa Soler,Vereda Montes,Canino,Macho,Tommy,Criollo,No aplica,8 Meses
+108,Hernan Marin,Medios Sanrita,Felino,Hembra,Junior,Criollo,No aplica,5 Años
+109,Humberto Quiroga,Medios Sanrita,Felino,Hembra,Eusebia,Criollo,No aplica,12 Meses
+110,Elvia Sanchez,Rincon,Canino,Hembra,Pinina,Criollo,3 Kg Aprox.,8 Meses
+111,Emperatriz Acero Martinez,Vereda Rincon,Canino,Hembra,Laica,Criollo,No aplica,3 Años
+112,Ermencia Vega Castillo,Vereda Peñitas,Canino,Hembra,Sheila,Criollo,No aplica,3 Años
+113,Ernesto Carrero Pulido,Vereda Cristales,Canino,Hembra,Corbata,Criollo,4 Kg Aprox.,4 Años
+114,James Diaz,Barrio camacho gamba,Felino,Hembra,Pachita,Criollo,3 Kg Aprox.,3 Años
+115,Javier Mateus,Vereda Bajo semisa,Felino,Hembra,Luna,criollo,3 Lb Aprox.,6 Meses
+116,Ernesto Carrero Pulido,Vereda Cristales,Canino,Hembra,Lasi,Criollo,2 Kg Aprox.,2 Años
+117,Ernesto Carrero Pulido,Vereda Cristales,Canino,Hembra,Muñeca,Criollo,1 Kg Aprox.,4 Meses
+118,Jennifer Malagon,Vereda Peñita,Felino,Hembra,Mia,Criolla,No aplica,No aplica
+119,Jennifer Malagon,Vereda Peñita,Felino,Hembra,Mia,Criollo,No aplica,6 Meses
+120,Jennith Sosa,Vereda Bajo Semisa,Felino,Macho,Limón,Criollo,3.5 Kg Aprox.,2 Años
+121,Jennith Sosa,Vereda Bajo Semisa,Felino,Hembra,Greta,Criollo,2.5 Kg Aprox.,8 Meses
+122,Jennith Sosa,Vereda Bajo Semisa,Felino,Hembra,Azul,Criollo,3 kg Aprox.,1 Año
+123,Fabiola Florez,Vereda Semisa,Canino,Hembra,Mona,Criollo,9 Kg Aprox.,1 años y 6 meses
+124,Fabiola Florez,Vereda Semisa,Canino,Hembra,Sherik,Criollo,13 Kg Aprox.,8 Meses
+125,Fernanda Pineda,Vereda Semisa,Canino,Hembra,Dulce,Criollo,8.5 Kg Aprox.,8 Meses
+126,Joel Perez Montenegro,Barrio el Recreo,Felino,Hembra,Media Noche,Criollo,No aplica,8 Meses
+127,Fernando Martinez Gonzalez,Vereda Bajo Sandimas,Canino,Hembra,Mia,Pincher,4 Kg Aprox.,21 Meses
+128,Fernando Martinez Gonzalez,Vereda Bajo Sandimas,Canino,Hembra,Lola,Criollo,5 kg Aprox.,10 Meses
+129,Filimon Olarte,Medios Santa rita,Canino,Hembra,Bella,Criollo,10 lkG,10
+130,Filimon Olarte,Medios Santa rita,Canino,Hembra,Vicky,Criollo,3 Kg Aprox.,No aplica
+131,Filimon Olarte,Medios Santa rita,Canino,Hembra,Muñeca,Criollo,3 Kg Aprox.,No aplica
+132,Francy Jazmin Ariza Sanchez,Vereda Rincon,Canino,Hembra,Luna,Criollo,No aplica,3 años
+133,Francy Jazmin Ariza Sanchez,Vereda Rincon,Canino,Macho,Lino,Criollo,No aplica,8 Años
+134,Jose Gabriel Guzman Rodriguez,Vereda Iroba,Felino,Hembra,Pacha,Criolla,5 Libras Aprox.,2 años
+135,Jose Gabriel Guzman Rodriguez,Vereda Iroba,Felino,Hembra,Negra,Criolla,4 Libras Aprox.,1 año
+136,Francy Jazmin Ariza Sanchez,Vereda Rincon,Canino,Macho,Respeto,Criollo,No aplica,6 Años
+137,Francy Jazmin Ariza Sanchez,Vereda Rincon,Canino,Macho,Cyzone,Criollo,No aplica,6 Meses
+138,Fredy Florido,Vereda Semisa,Canino,Hembra,Panda,Criollo,No aplica,1 Año
+139,Fredy Florido,Vereda Semisa,Canino,Macho,Nego,Criollo,No aplica,1 Año
+140,Gabriel Peña,Medios Sanrita,Canino,Hembra,Lazi,Criollo,No aplica,18 Meses
+141,Juan David Alvarez Moreno,Barrio Orquidea Real,Felino,Macho,Koku,Criolla,2 Kg Aprox.,2 Años
+142,Juan David Alvarez Moreno,Barrio Orquidea Real,Felino,Hembra,Katzumi,Criolla,1.5 Kg Aprox.,1 Año y medio
+143,Gabriel Ulloa Mosquera,Vereda Rio Suarez,Canino,Hembra,Coca,Criollo,6 Kg Aprox.,3 Años
+144,Gilberto Guerrero,Vereda Bajo Cantano,Canino,Hembra,chiripa,Criollo,14 Lb,No aplica
+145,Juana del Carmen Ortega Ferreira,Vereda Rio Suarez,Felino,Macho,Oliver,Criollo,3 Lb Aprox.,10 Meses
+146,Gilberto Guerrero,Vereda Bajo Cantano,Canino,Hembra,Muñeca,Criollo,12 Lb,7 Meses
+147,Gladis Castillo,Barrio Boca Puente,Canino,Hembra,Princesa,Criollo,No aplica,8 Años
+148,Julian David Garcia Peña,Vereda Alto Semisa,Felino,Hembra,Mona,Criollo,3 Kg Aprox.,1 Año
+149,Gladis Martinez,Medios Santa rita,Canino,Hembra,Luna,Criollo,4 Kg Aprox.,No aplica
+150,Julian Gonzalez,Vereda Semisa,Felino,Hembra,Manchas,Criollo,2 Kg Aprox.,8 Meses
+151,Gladis Rodriguez,Barrio San Luis,Canino,Hembra,Kira,Criollo,5 Kg Aprox.,2 años
+152,Gloria Deysan Casas Roncancio,Barrio Progreso,Canino,Hembra,Kira,Coker / Golden,12 Libras Aprox.,4 Años
+153,Gloria Martinez,Vereda Rio Suarez,Canino,Hembra,Fiona,Pincher,3 Kg Aprox.,18 Meses
+154,Gloria Martinez,Vereda Rio Suarez,Canino,Hembra,Manchitas,Pincher,3 Kg Aprox.,18 Meses
+155,Karol Samanta Luengas Ariza,Vereda Semisa,Felino,Macho,Minshi,Criollo,4 Kg Aprox.,2 Años
+156,Laura Moreno,Barrio Campo Santo,Felino,Hembra,Negra,Criolla,No aplica,7 Meses
+157,Harry Santamaria,Barrio Lelio Olarte,Canino,Hembra,Heidy,Criollo,24 Kg Aprox.,3 Años
+158,Leidy Fajardo,Vereda Capilla,Canina,Hembra,Luna,Shnauzer,6 Kg Aprox.,5 Años
+159,Leidy Torres,Barrio Comuneros,Felino,Hembra,Michita,Criollo,No aplica,2 Años
+160,Henson Medina,Barrio San jeronimo,Canino,Hembra,Anubis,Criollo,3 Kg Aprox.,1 año y 2 meses
+161,Hernan Marin,Medios Sanrita,Canino,Hembra,Dogie,Criollo,No aplica,4 Años
+162,Hernan Marin,Medios Sanrita,Canino,Hembra,Tina,Criollo,No aplica,2 Años
+163,Hernan Marin,Medios Sanrita,Canino,Hembra,Gaviota,Criollo,No aplica,4 Meses
+164,Luis Alejandro Gomez,Vereda Alto semisa,Felino,Hembra,Mirrigas,Criollo,2 Kg Aprox.,2 Años y medio
+165,Luis Alejandro Gomez,Vereda Alto semisa,Felino,Hembra,Niña,Criollo,2 Kg Aprox.,2 Años
+166,Luis Alejandro Gomez,Vereda Alto semisa,Felino,Hembra,Mona,Criollo,2 Kg Aprox.,2 Años
+167,Hernan Marin,Medios Sanrita,Canino,Hembra,Negra,Criollo,No aplica,4 Meses
+168,Luis Manuel Peña Ramirez,Vereda Bajo semisa,Felino,Macho,Tomas,Criollo,No aplica,1 Año
+169,Jackeline Ardila,Barrio Boca Puente,Canino,Hembra,Matilda,Pincher,No aplica,3 Años
+170,Jackeline Ardila,Barrio Boca Puente,Canino,Hembra,Lupe,Fresh Poodle,No aplica,2 Años
+171,Jacqueline Hurtado,Vereda Bajo Cantano,Canino,Hembra,Mini,Criollo,3.5 Kg Aprox.,4 Años
+172,Luz Meller Mejia Galeano,Vereda Montes,Felino,Hembra,Pacha,Criollo,3 Kg Aprox.,5 Años
+173,Jacqueline Londoño,Barrio Villa Puente real,Canino,Hembra,Nathasha,Labradora,27 Kg Aprox.,7 Años
+174,Jacqueline Londoño,Barrio Villa Puente real,Canino,Hembra,Candy,Criollo,30 Kg Aprox.,6 Años
+175,Magdalena Martinez Torres,Vereda Peñitas,Felino,Hembra,Pitufina,Criollo,1 Kg Aprox.,6 Años
+176,Magdalena Martinez Torres,Vereda Peñitas,Felino,Hembra,Trises,Criollo,1 Kg Aprox.,2 Años
+177,Magdalena Martinez Torres,Vereda Peñitas,Felino,Hembra,Misifú,Criollo,1 Kg Aprox.,4 Años
+178,Jair Pardo,Barrio Chico,Canino,Hembra,Kira,Criollo,No aplica,8 Meses
+179,Maira Alejandra Obando,Barrio Campo Santo,Felino,Macho,Michin,Criollo,No aplica,1 año y medio
+180,Marcela Pineda,Barrio el Recreo,Felino,Hembra,Tacha,Criolla,2 Kg Aprox.,1 Año
+181,Janneth Pinzón Virviezcas,Popoa Norte,Canino,Hembra,Morita,Criollo,7 Kg Aprox.,4 Años
+182,Javier Suarez,Sector Petaqueros,Canino,Hembra,Polar,Criollo,4 Kg Aprox.,6 Meses
+183,Maria Berenice Martinez Ariza,Vereda Rincon,Felino,Hembra,Cloe,Criollo,1 Kg Aprox.,1 Año
+184,Maria Berenice Martinez Ariza,Vereda Rincon,Felino,Hembra,Sombra,Criollo,1 Kg Aprox.,1 Año
+185,Jedeny Suarez,Vereda Robles,Canino,Hembra,negra,Criollo,12 Kg Aprox.,1 Año
+186,Jenifer Palomino Ortiz,Vereda Alto Cantano,Canino,Hembra,Fortuna,Criollo,11 Kg Aprox.,1 Año y medio
+187,Jenny Ruiz,Vereda Alto semisa,Canino,Hembra,Pulga,Schnauzer,3 Kg Aprox.,5 Años
+188,Maria Isabel Infante,Vereda Peñitas,Felino,Hembra,Mushu,Criollo,3 Kg Aprox.,2 Años
+189,Maria Noguera,Barrio Boca Puente,Felino,Hembra,Kylie,Criolla,No aplica,1 año y 3 meses
+190,Jeny Fernanda Herrera Ortiz,Vereda Rincon,Canino,Hembra,Niña,Fresh Poodle,No aplica,1 Año y medio
+191,Jeny Fernanda Herrera Ortiz,Vereda Rincon,Canino,Hembra,Estrella,Criollo,No aplica,2 Años
+192,Jesus Antonio Bernal Vargas,Vereda Rincon,Canino,Hembra,Pirulina,Criollo,No aplica,6 Meses
+193,Jesus Antonio Bernal Vargas,Vereda Rincon,Canino,Hembra,Chilindrina,Criollo,No aplica,5 Años
+194,Jesus Antonio Bernal Vargas,Vereda Rincon,Canino,Hembra,Clarin,Criollo,No aplica,3 Años
+195,Jesus Antonio Bernal Vargas,Vereda Rincon,Canino,Hembra,Cusco,Criollo,No aplica,2 Años
+196,Maritza Alvarez Quiroga,Vereda Semisa,Felino,Hembra,Cenicienta,Criollo,No aplica,2 Años
+197,Marlen Pardo Pineda,Vereda Popoa Norte,Felino,Hembra,Milu,Criollo,2 Kg Aprox.,18 Meses
+198,Jhon Gamba,Barrio Villa Jazmin,Canino,Hembra,Pepa,Pug,9.5 Kg Aprox.,4 Años
+199,Martha Quiroga,Medios Sanrita,,,No aplica,Criollo,No aplica,1 Año
+200,Martha Quiroga,Medios Sanrita,,,No aplica,Criollo,No aplica,3 Meses
+201,Jhon Gamba,Barrio Villa Jazmin,Canino,Hembra,Mini,Criollo,4 Kg Aprox.,8 Meses
+202,Mauricio Alonso Riaño Pinzón,Barrio Comuneros,Felino,Macho,Tommy,Criollo,No aplica,9 Meses
+203,Miguel Angel Caro,Vereda Popoita,Felino,Macho,Budy,Criollo,No aplica,6 Meses
+204,Johana Reyes Parra,Vereda Rio Suarez,Canino,Hembra,Candy,Labradora,No aplica,3 Años
+205,Johana Sanchez,Barrio Campo Santo,Canino,Hembra,Perla,Pincher,No aplica,11 Meses
+206,Miguel Roberto Pinzon,Antonio Santos,Felino,Hembra,Quita,Criollo,No aplica,3 Años
+207,Mildred Martinez,Vereda Rio Suarez,Felino,Hembra,Princesa,Criollo,2 Kg Aprox.,4 Meses
+208,Mildred Martinez,Vereda Rio Suarez,Felino,Hembra,Manchas,Criollo,3 Kg Aprox.,1 Año y medio
+209,Jose Antonio Ariza,Vereda Resguardo,Canino,Hembra,Sombra,Pincher,3 Lb Aprox.,6 Meses
+210,Jose Arnulfo Ariza Ariza,Vereda Popoa Sur,Canino,Hembra,Michi,Criollo,2 Kilos Aprox.,4 Años
+211,Monica Alejandra Ospina Alvarez,Vereda Rincon,Felino,Hembra,Pandora,Criollo,1 Kg Aprox.,5 Meses
+212,Monica Beltram,Recreo Arrayanes,Felino,Hembra,Lulu,Criollo,1 Kg Aprox.,6 Meses
+213,Nancy Ortiz,Barrio Campo Santo,Felino,Hembra,Lulu,Criolla,3 Kg Aprox.,
+214,Jose Arnulfo Ariza Ariza,Vereda Popoa Sur,Canino,Hembra,Mirringo,Criollo,4 Kg Aprox.,2 Años
+215,Jose Erberto Cubides Reyes,Vereda Bajo Cantano,Canino,Macho,Negro,Criollo,No aplica,6 Meses
+216,Jose Erberto Cubides Reyes,Vereda Bajo Cantano,Canino,Hembra,Chiripa,Criollo,No aplica,6 Meses
+217,Jose Erberto Cubides Reyes,Vereda Bajo Cantano,Canino,Hembra,Borona,Criollo,No aplica,6 Meses
+218,Jose Erberto Cubides Reyes,Vereda Bajo Cantano,Canino,Hembra,Joyeria,Criollo,No aplica,6 Meses
+219,Jose Gabriel Guzman Rodriguez,Vereda Iroba,Canino,Hembra,Sacha,Beagle,8 Libras Aprox.,1 año y medio
+220,Jose Israel Rozo Gonzalez,Vereda Paramo,Canino,Hembra,Guabina,Criolla,13 Kg Aprox.,2 años y medio
+221,Jose Mauricio Martinez Yory,Vereda Rio Suarez,Canino,Hembra,Canela,Pincher,13 Kg Aprox.,1 Año
+222,Nelly Ardila Cuadrado,Barrio Recreo,Felino,Macho,Sky,Criollo,5 Kg Aprox.,2 Años y medio
+223,Jose Ramon Ariza Paez,Vereda Rincon,Canino,Macho,Bruno,Criollo,10 Kg Aprox.,6 Meses
+224,Jose Ramon Ariza Paez,Vereda Rincon,Canino,Macho,Kaiser,Criollo,15 Kg Aprox.,12 Años
+225,Nixon Medina Peña,Barrio Juan pablo II,Felino,Macho,Ginger,Criollo,No aplica,
+226,Nydia Lizeth Ovalle Peña,Villa de Puente Real,Felino,Hembra,Luna,Criollo,2 Kg Aprox.,6 Meses
+227,Juan Manuel Torres,Vereda Bajo Semisa,Canino,Hembra,Sacha,Criollo,30 Kg Aprox.,6 Años
+228,Juana del Carmen Ortega Ferreira,Vereda Rio Suarez,Canino,Hembra,Lulu,Cocker,12 Kg Aprox.,7 Años
+229,Juana del Carmen Ortega Ferreira,Vereda Rio Suarez,Canino,Hembra,Luna,Criollo,14 Kg Aprox.,1 Año
+230,Juana Valentina Urquijo Hernandez,Vereda Bajo semisa,Canino,Hembra,Lazy,Criollo,15 Kg Aprox.,10 Años
+231,Pablo Alexander Ovalle,Barrio Nogales,Felino,Hembra,Michin,Criollo,1.300gr Aprox,1 Año
+232,Julian David Garcia Peña,Vereda Alto Semisa,Canino,Hembra,Lupe,Criollo,5 Kg Aprox.,9 Meses
+233,Julian Espejo,Vereda Semisa,Canino,Hembra,Chuzos,Criollo,8 Kg Aprox.,8 Años
+234,Karen Daniela Ardila,Vereda Semisa,Canino,Hembra,Lulu,Criolla,8 Kg Aprox.,9 Meses
+235,Paola Guerrero Molano,Vereda Capilla,Felino,Hembra,Mia,No aplica,1.5 Kg Aprox.,No aplica
+236,Paola Guerrero Molano,Vereda Capilla,Felino,Hembra,Candy,No aplica,1.5 Kg Aprox.,No aplica
+237,Karen Gissela Ariza Bernal,Vereda Iroba,Canino,Hembra,Pinky,Criollo,5 Kg Aprox.,2 Años
+238,Karen Gissela Ariza Bernal,Vereda Iroba,Canino,Macho,Tintín,Criollo,4 Kg Aprox.,1 Año
+239,Rafael Ariza,Vereda Popoa Norte,Felino,Hembra,Monchis,Criollo,1.5 Kg Aprox.,2 Años
+240,Karol Samanta Luengas Ariza,Vereda Semisa,Canino,Hembra,Kiara Pinina,Criollo,8 Kg Aprox.,8 Meses
+241,Raquel Pardo,Barrio Progreso,Felino,Hembra,Patty,Criolla,8 Kg Aprox.,1 Año y medio
+242,Laura Daniela Rozo Barreto,Barrio Recreo,Canino,Macho,Vairus,Criollo,11kg,3 años
+243,Laura Sanchez,Vereda Bajo Cantano,Canino,Hembra,Florecita,Criollo,4 Kg Aprox.,2 Años
+244,Laura Zuñiga,Barrio Juan pablo II,Canino,Hembra,Mia,Shitzu,3 Kg Aprox.,4 Años
+245,Rocio Ruiz Ariza,Vereda Alto semisa,Felino,Macho,Wailly,Criollo,2 Kg Aprox.,2 Años
+246,Leidy Yesenia Diaz Olaya,Barrio Nogales,Canino,Macho,Smigol,Pug,10 Kg Aprox.,6 Años
+247,Lizeth Romero,Barrio Chico,Canino,Hembra,Coco,Fresh Poodle,7 Kg Aprox.,5 Años
+248,Rosario Martinez,Medios Sanrita,Felino,Hembra,Tita,Criollo,No aplica,11 Meses
+249,Luis Alejandro Gomez,Vereda Alto semisa,Canino,Hembra,Lacy,Criollo,10 Kg Aprox.,2 años y 8 meses
+250,Ruben Valenzuela,Vereda Peñitas,Felino,Hembra,Lupe,Salchicha,1 Kg Aprox.,2 Años
+251,Samuel Octavio Sanchez Ariza,Vereda Rincon,Felino,Hembra,Atenea,Criollo,2 Kg Aprox.,18 Meses
+252,Luis Alejandro Gomez,Vereda Alto semisa,Canino,Hembra,Natasha,Criollo,6 Kg Aprox.,11 Meses
+253,Luis Alejandro Gomez,Vereda Alto semisa,Canino,Hembra,Nerona,Criollo,6 Kg Aprox.,6 Meses
+254,Luis Edwin Avila,Barrio Nuevo Portal,Canino,Hembra,Kloy,Criollo,12 Kg Aprox.,7 Meses
+255,Luis Enrique Franco,Vereda Rio Suarez,Canino,Macho,Win,Criollo,10 Kg Aprox.,7 meses
+256,Luz Angela Poveda,Vereda Bajo Sandimas,Canino,Hembra,Luna,Criollo,3 kg Aprox.,7 Años
+257,Sandra Patricia Garcia Peña,Vereda Alto semisa,Felino,Hembra,Mia,Criollo,3 Kg Aprox.,10 Meses
+258,Sandra Patricia Garcia Peña,Vereda Alto semisa,Felino,Macho,Niño,Criollo,3 Kg Aprox.,1 Año
+259,Luz Angela Poveda,Vereda Bajo Sandimas,Canino,Hembra,Princesa,Criollo,4 Kg Aprox.,No aplica
+260,Luz Consuelo Rozo Muñoz,Barrio La cajita,Canino,Hembra,Kia,Criollo,17 Lb,3 Años
+261,Luz Marina Estupiñan,Vereda Jarantiva,Canino,Hembra,Luna,Pincher,No aplica,3 Años
+262,Luz Marina Estupiñan,Vereda Jarantiva,Canino,Hembra,Coco,Criollo,No aplica,3 Años
+263,Stefanny Dayana Mateus Pardo,Vereda Bajo Guamito,Felino,Hembra,Michi,Criollo,No aplica,19 Meses
+264,Luzdary Mayorga Forero,Vereda Alto Guamito,Canino,Hembra,Sacha,Criolla,19 Kg Aprox,3 Años y medio
+265,Teresa Duarte Romero,Sector Club Jemeri,Felino,Hembra,Lucerito,Criollo,3 Kg Aprox.,1 Año
+266,Magdalena Martinez Torres,Vereda Peñitas,Canino,Hembra,Perla,Pastor Aleman/Criollo,13 Kg Aprox.,5 Años
+267,Tiamat Escobar,Vereda Rio Suarez,Felino,Hembra,Pinky,Criolla,2 Kg Aprox.,18 Meses
+268,Magnolia Poveda Poveda,Barrio Boca Puente,Canino,Hembra,Bony,Pitbull / Labrador,15 Kg Aprox.,1 Año
+269,Marco Antonio Flores,Vereda Bajo Cantano,Canino,Hembra,Violeta,Criollo,12.5 Lb,18 Meses
+270,Maria Antonia Prado Diaz,Vereda Bajo Guamito,Canino,Hembra,Luna,Enrazada Pitbull,No aplica,3 Años
+271,Maria Antonia Prado Diaz,Vereda Bajo Guamito,Canino,Hembra,Milú,Criollo,No aplica,7 Meses
+272,Maria Clemencia Espinoza Diaz,Vereda Iroba,Canino,Hembra,Kiara,Criollo,9 Lg Aprox.,1 Año
+273,Yasmin Lucia Pardo Fajardo,Vereda Bajo Guamito,Felino,Hembra,Michiquita,Criollo,1 Kg Aprox.,7 Meses
+274,Maria del Pilar Guerrero,Vereda Montes,Canino,Hembra,Sacha,Criolla,4 Kg Aprox.,1 Año
+275,Yeimy Alejandra Poveda,Vereda Peñitas,Felino,Hembra,Mona,Criollo,No aplica,5Años
+276,Yeimy Alejandra Poveda,Vereda Peñitas,Felino,Hembra,Ramona,Criollo,No aplica,10 Meses
+277,Yeimy Alejandra Poveda,Vereda Peñitas,Felino,Hembra,Maira,Criollo,No aplica,10 Meses
+278,Maria Helida Olaya Ruiz,Barrio Nogales,Canino,Hembra,Mara,Pug,10 Kg Aprox.,6 Años
+279,Maria Juana Guerrero,Bajo Sandimas,Canino,Macho,Guardian,Criollo,6 Kg Aprox.,2 años
+280,Yeny Viviana Vargas Torres,Vereda Rio Suarez,Felino,Macho,Tom,Criollo,2 Kg Aprox.,1 Año
+281,Maria Juana Guerrero,Bajo Sandimas,Canino,Macho,Cusibas,Criollo,5 Kg Aprox.,2 años
+282,Ana Yaneth Ariza Romero,Vereda Rincon,Felino,Hembra,Mona,Criollo,5 Kg Aprox.,1 año y medio
+283,Maria Virgelina Ardila,Vereda Cuchilla,Canino,Hembra,Mechas,Criollo,7 Kg Aprox.,1 Año
+284,Mariela Alarcon,Vereda Rio Suarez,Canino,Hembra,Laika,Pastor Aleman,20 Kg Aprox.,8 Meses
+285,Mariela Alarcon,Vereda Rio Suarez,Canino,Hembra,HItachi,Criollo,15 Kg Aprox.,2 Años y 6 Meses
+286,Mariela Alarcon,Vereda Rio Suarez,Canino,Hembra,Tania,Criollo,91/2,3 Años y 6 Meses
+287,Maritza Alvarez Quiroga,Vereda Semisa,Canino,Hembra,Luna,Criollo,No aplica,5 Años
+288,Maritza Alvarez Quiroga,Vereda Semisa,Canino,Hembra,Lucy,Criollo,No aplica,4 Años
+289,Maritza Alvarez Quiroga,Vereda Semisa,Canino,Hembra,Marihuana,Criollo,No aplica,6 Meses
+290,Martha Cecilia Pardo Villamil,Vereda Alto Capilla,Canino,Hembra,Princesa,Pincher/ chiguagua,10 Kg Aprox.,2 años
+291,Martha Cecilia Sanchez Ariza,Vereda Alto semisa,Canino,Hembra,Luna Sanchez,Criollo,No aplica,6 Meses
+292,Martha Janeth Diaz,Vereda Cuchilla,Canino,Hembra,Luna,Criollo,50 Lb,10 Meses
+293,Martha Janeth Diaz,Vereda Cuchilla,Canino,Hembra,Nebraska,Criollo,50 Lb,10 Meses
+294,Maryuri Villamil,Vereda Bajo Semisa,Canino,Hembra,Mandi,Criolla,5 Kilos Aprox.,6 Meses
+295,Matia Luisa Urquijo,Vereda Bajo Sandimas,Canino,Hembra,Princesa,Criollo,5 Kg Aprox.,6 Meses
+296,Maria Virgelina Ardila,Vereda Cuchilla,Felino,Hembra,Pancha,Criollo,No aplica,1 Año
+297,Miguel Campos,Sector Aguablanca,Canino,Hembra,Luna,Criollo,6 Kg Aprox.,2 años
+298,Miguel Roberto Pinzon,Antonio Santos,Canino,Hembra,Pola,Criollo,No aplica,8 Años
+299,Miguel Roberto Pinzon,Antonio Santos,Canino,Hembra,Julieta,Criollo,No aplica,4 Años
+300,Mildred Martinez,Vereda Rio Suarez,Canino,Hembra,Candy,Criollo,2 Kg Aprox.,4 Meses
+301,Milena Duarte,Medios Santa rita,Canino,Hembra,Princesa,Criollo,10 Kg Aprox.,No aplica
+302,Monica Alejandra Ospina Alvarez,Vereda Rincon,Canino,Macho,Rocky,Criollo,10 Kg Aprox.,2 Años
+303,Nancy Otalora,Bajo Sandimas,Canino,Hembra,Mona,Criollo,11 Kg Aprox.,10 Años
+304,Fernando Riaño,Vereda Rio Suarez,Felino,Hembra,Masha,Criollo,2 Kg Aprox.,8 Meses
+305,Nancy Otalora,Bajo Sandimas,Canino,Macho,Azabache,Criollo,5 Kg Aprox.,5 Años
+306,Nancy Paola Guzman,Vereda Bajo Sandimas,Canino,Hembra,Minny,Criollo,No aplica,1 Año y medio
+307,Gladis Castillo,Barrio Boca Puente,Felino,Hembra,Pancha,Criollo,No aplica,No aplica
+308,Gladis Castillo,Barrio Boca Puente,Felino,Hembra,Nata,Criollo,No aplica,7 Años
+309,Gladis Castillo,Barrio Boca Puente,Felino,Hembra,Chispita,Criollo,No aplica,6 Años
+310,Gladis Castillo,Barrio Boca Puente,Felino,Hembra,Minchi,Criollo,No aplica,3 Años
+311,Nancy Paola Guzman,Vereda Bajo Sandimas,Canino,Hembra,Dulce,Criollo,No aplica,9 Meses
+312,Nancy Yohana Molina Marin,Vereda Rincon,Canino,Hembra,Lulu,Pincher,2.500 gr Aprox.,8 Meses
+313,Nancy Yohana Molina Marin,Vereda Rincon,Canino,Hembra,Cony,Pincher,2.500 gr Aprox.,15 Meses
+314,Nancy Yohana Molina Marin,Vereda Rincon,Canino,Hembra,Yassy,Pincher,2.700 gr Aprox.,15 Meses
+315,Nary Yoleimy Rodriguez Peña,Vereda Alto Semisa,Canino,Hembra,Flopy,Criollo,2 Kg Aprox.,18 Meses
+316,Nary Yoleimy Rodriguez Peña,Vereda Alto Semisa,Canino,Hembra,Tobby,Criollo,4 Kg Aprox.,9 Meses
+317,Nathalia  Gamboa,Medios Santa rita,Canino,Hembra,Corbata,Criollo,12 Kg Aprox.,No aplica
+318,Laura Zuñiga,Barrio Juan pablo II,Felino,Hembra,Pacha,criollo,2 Kg Aprox.,3 Años
+319,Adriana Marcela Bautista,Vereda Bajo Guamito,Felino,Hembra,Katy,Criollo,No aplica,4 Años
+320,Luz Mary Frailen,Vereda Popoa Sur,Felino,Macho,Manchas,Criollo,No aplica,7 Meses
+321,Naysha Luna,Barrio Recreo,Canino,Hembra,Luna,Pitbull,No aplica,3 Años
+322,Nelly Ardila Cuadrado,Barrio Recreo,Canino,Hembra,Dakota,Coker,No aplica,3 años
+323,Nicolas Pinzón,Vereda Bajo Guamito,Canino,Hembra,Cusca,Pitbull/Criollo,25 Kg Aprox.,4 Años
+324,Nidia Martinez,Medios Santa rita,Canino,Macho,Coco,Criollo,10 Kg Aprox.,20 Meses
+325,Nury Avila Gonzales,Bajo Cantano,Canino,Hembra,Manchas,Criollo,5 Kg Aprox.,2 Años y 6 Meses
+326,Nury Avila Gonzales,Bajo Cantano,Canino,Hembra,Canela,Pincher,2 Kg Aprox.,1 año y 6 meses
+327,Omar Ruiz Paez,Vereda Petaqueros,Canino,Macho,Orejas,Criollo,8 Kg Aprox.,8 Años
+328,Omar Ruiz Paez,Vereda Petaqueros,Canino,Hembra,Tinila,Criollo,6 Kg Aprox.,6 Años
+329,Yenny Mateus,Barrio Campo Santo,Felino,Hembra,Princesa,Criollo,No aplica,5 Meses
+330,Omar Ruiz Paez,La Lajita,Canino,Hembra,Canela,Criollo,5.8 Kg Aprox.,11 Meses
+331,Oscar Espitia León,Bajo Guamito,Canino,Hembra,Luna,Criollo,6 Kg Aprox.,1 Año y 6 Meses
+332,Luz Stella Garzón,Vereda Rincon,Felino,Macho,Duque,Criollo,3 Kg Aprox.,8 Meses
+333,Luz Stella Garzón,Vereda Rincon,Felino,Macho,Chaparro,Criollo,2 Kg Aprox.,6 Meses
+334,Pablo Alexander Ovalle,Barrio Nogales,Canino,Hembra,Marranita,Criollo,3.400 gr Aprox.,1 Año
+335,Paola Gonzalez,Vereda Petaqueros,Canino,Hembra,Lupe,Criollo,15 Kg Aprox.,8 Meses
+336,Olga Moreno Reyes,Vereda Capilla,Felino,Hembra,Dulce,Criollo,"2,7 Kg Aprox",5 meses
+337,Olga Moreno Reyes,Vereda Capilla,Felino,Hembra,Black,Criollo,2 Kg Aprox.,6 Meses
+338,Olga Moreno Reyes,Vereda Capilla,Felino,Macho,Bagguera,Criollo,2 Kg Aprox.,6 Meses
+339,Olga Moreno Reyes,Vereda Capilla,Felino,Macho,Everest,Criollo,1.3 KG Aprox.,4 Meses
+340,Paola Guerrero Molano,Vereda Capilla,Canino,Hembra,Laica,No aplica,No aplica,No aplica
+341,Paola Guerrero Molano,Vereda Capilla,Canino,Macho,Taison,No aplica,No aplica,No aplica
+342,Paula Lorena Jerena,Vereda Delicias,Canino,Hembra,Katia,Criollo,No aplica,4 años
+343,Paula Lorena Jerena,Vereda Delicias,Canino,Hembra,Luna,Criollo,No aplica,1 año
+344,Paula Ovalle,Barrio Ocobos,Canino,Macho,Aslan,Criollo,10 Kg Aprox.,7 Meses
+345,Pedro Elias gamba Peña,Vereda Iroba,Canino,Hembra,Borrachera,Criollo,6 Lb Aprox.,5 Años
+346,Pedro Nicolas Torres Moncada,Vereda Peñitas,Canino,Hembra,Kira,criollo,8 Kg Aprox.,5 Años
+347,Clara Ines Leon Pardo,Semisa,Felino,Macho,Tipiti,Criollo,4 kg,1 año y 4 meses
+348,Maria Eugenia Martinez,Barrio Cantarrana,Felino,Hembra,Nelly,Criollo,2 Kg Aprox.,8 Meses
+349,Rafael Ariza,Vereda Popoa Norte,Canino,Hembra,Lala,Criollo,6 Lb Aprox.,1 Año
+350,Rafel  Cortes,Vereda Bajo Semisa,Canino,Hembra,Evee,Criollo,18 kg Aprox.,10 Meses
+351,Rafel Antonio Cortes,Vereda Bajo Semisa,Canino,Hembra,ino,Criollo,15 Kg Aprox.,10 Meses
+352,Raul romero,Barrio Centro,Canino,Hembra,Chispa,Criollo,24 Kg Aprox.,6 Meses
+353,Rita Eva Roncancio,Bajo Sandimas,Canino,Macho,Mate,Criollo,No aplica,6 Años
+354,Robinson Peña,Vereda Popoa Sur - Delicias,Canino,Hembra,Muñeca,Criollo,3 Kg Aprox.,1 Año
+355,Walter Bravo,Bajo Sandimas,Felino,Hembra,Lupe,Criollo,1 Kg Aprox.,2 años
+356,Robinson Uriel Ruiz Ariza,Vereda Alto semisa,Canino,Hembra,Muñeca,Criollo,20 Lb Aprox.,2 Años
+357,Rocio Ruiz Ariza,Vereda Alto semisa,Canino,Hembra,Kiara,Snauzer,6 Kg Aprox.,7 Meses
+358,Rosa Ema Gonzalez Gonzalez,Vereda Alto semisa,Canino,Hembra,Flaca,Criollo,13 Kg Aprox.,5 Años
+359,Rosalba Niño,Barrio Chico,Canino,Hembra,Milu,Schnauzer,3 Kg Aprox.,4 Años
+360,Rosalba Niño,Barrio Chico,Canino,Hembra,Mia,Schnauzer,5 Kg Aprox.,8 Años
+361,Rosario Martinez,Medios Sanrita,Canino,Macho,Orion,Criollo,No aplica,18 Meses
+362,Nancy Otalora,Bajo Sandimas,Felino,Hembra,Negra,Criolla,2 Kg Aprox.,3 años
+363,Misael Martinez,Bajo Sandimas,Felino,Hembra,Paquita,Criolla,2 Kg Aprox.,4 años
+364,Samuel Octavio Sanchez Ariza,Vereda Rincon,Canino,Hembra,Chata,Pug / Fresh,5 Kg Aprox.,8 Meses
+365,Sandra Milena Fajardo Gomez,Barrio La Lajita,Canino,Hembra,Bella,Criollo,7 Kg Aprox.,1 Año
+366,Sandra Patricia Benitez,Vereda Jarantiva,Canino,Hembra,Alaska,Criollo,4 Kg Aprox.,2 Años
+367,Sandra Patricia Benitez,Vereda Jarantiva,Canino,Hembra,Roma,Criollo,5 Kg Aprox.,10 Meses
+368,Milena Duarte,Medios Santa rita,Felino,Hembra,Princesa,Criollo,2 Kg Aprox.,
+369,Sandra Patricia Benitez,Vereda Jarantiva,Canino,Hembra,Laika,Criollo,3 Kg Aprox.,12 Meses
+370,Sandra Patricia Pabon Escalante,Barrio leilio olarte,Canino,Hembra,Kira,Pincher,5 Kg Aprox.,4 Años
+371,Sandy Ulloa,Vereda Rio Suarez,Canino,Hembra,Lupita,Criollo,3 Kg Aprox.,6 Meses
+372,Sandy Ulloa,Vereda Rio Suarez,Canino,Hembra,Bella,Criollo,5 Kg Aprox.,6 Meses
+373,Nathalia  Gamboa,Medios Santa rita,Felino,Macho,Bigotes,Criollo,2 Kg Aprox.,No aplica
+374,Saul Garcia,Rio Suarez,Canino,Hembra,Golondrina,Criollo,6 Kg Aprox.,3 Años
+375,Sharick Muñoz,Barrio Progreso,Canino,Hembra,Kira,Cocker/Labrador,40 Kg Aprox,3 Años
+376,Smith Xiomara Ariza Ariza,Barrio Nogales,Canino,Hembra,Abby,Criolla,18 kg Aprox.,2 años
+377,Sofia Sanchez,Vereda Robles,Canino,Hembra,Kira,Criollo,No aplica,6 Meses
+378,Teresa Duarte Romero,Sector Club Jemeri,Canino,Hembra,Muñeca,Criollo,10 Kg Aprox.,18 Meses
+379,Tiamat Escobar,Vereda Rio Suarez,Canino,Hembra,Kyara,Pitbull,5 Kg Aprox.,10 Meses
+380,Nubia Jazmin Torres Moncada,,Felino,Hembra,Minina,Criollo,1 Lb,1 Año y 6 Meses
+381,Urbano Paez,Bajo Sandimas,Canino,Macho,Zorro,Criollo,8 Kg Aprox.,3 años
+382,Urbano Paez,Bajo Sandimas,Canino,Macho,Junior,Criollo,3 Kg Aprox.,2 años
+383,Viviana Martinez,Vereda Rio Suarez,Canino,Hembra,Quira,Criollo,15 Kg Aprox.,7 Meses
+384,Viviana Velazques Niño,Vereda Bajo Cantano,Canino,Hembra,Milu,Cocker,5 Kg Aprox.,15 Meses
+385,Walter Bravo,Bajo Sandimas,Canino,Macho,Ronny,Criollo,13 Kg Aprox.,1 año y 3 meses
+386,Wendy Paola Ramirez Valdez,Vereda Alto Sandimas,Canino,Hembra,Niña,Criolla,No aplica,1 Año
+387,Wendy Rodriguez,Vereda peñitas,Canino,Hembra,Niña,Labrador / Criollo,6 Lb,5 Meses
+388,Wlitd Gissell Ardila Burgos,Vereda Bajo Guamito,Canino,Hembra,Muñeca,Criollo,No aplica,No aplica
+389,Yarly Ruiz Marin,Vereda Delicias,Canino,Hembra,Katty,Cockapoos,10 Kg Aprox.,2 Años y 9 Meses
+390,Yeimy Alejandra Poveda,Vereda Peñitas,Canino,Hembra,Negris,Criollo,15 Kg Aprox.,2 Años
+391,Yeni Patricia Duarte,Vereda Cuchilla,Canino,Hembra,Manchas,Criollo,5 Kg Aprox.,2 años y medio
+392,Yeni Patricia Duarte,Vereda Cuchilla,Canino,Hembra,Chocolatina,Criollo,1 Kg Aprox.,1 Año
+393,Zoraida Marin,Vereda Rincon,Canino,Hembra,Zakura,Criollo,No aplica,5 Meses
+394,Frandy Yisela Vargas,Barrio Nogales,Felino,Hembra,Lulu,Criollo,No aplica,6 Años
+395,Pedro Antonio Priero,Barrio Chico,Canino,Hembra,Kiara,Criollo,8 Kg Aprox.,2 Años
+396,Daniela Ballesteros,Barrio Nuevo Portal,Felino,Hembra,Catalina,Criollo,2 Kg Aprox.,3 Años
+397,Daniela Ballesteros,Barrio Nuevo Portal,Felino,Hembra,Negra,Criollo,2 Kg Aprox.,1 Año
+398,Yuli Constanza Gamboa Contreras,Vereda Montes,Felino,Hembra,Candy,Criollo,1 Kg Aprox.,5 Meses
+399,Martha Burgos,Vereda Semisa,Felino,Macho,Zeus 1,Criollo,1 Kg Aprox,5 Meses
+400,Martha Burgos,Vereda Semisa,Felino,Macho,Zeus 2,Criollo,1 Kg Aprox,5 Meses
