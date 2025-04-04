@@ -1,0 +1,6 @@
+import pandas as pd
+import numpy as np
+
+path_to_file = "https://raw.githubusercontent.com/simon023-eng/Esterilizaci-n-Canina-y-Felina/main/Esterilizaci_n_Canina_y_Felina_2021_20250403.csv"
+df = pd.read_csv(path_to_file, sep=',', header=0)
+df.head(400)
