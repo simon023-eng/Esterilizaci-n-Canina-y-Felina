@@ -4,7 +4,7 @@
 
 # Introduccion:
 
-Este proyecto tiene como objetivo analizar los datos relacionados con la esterilización de caninos y felinos durante el año 2021. La esterilización es una práctica fundamental para el control poblacional de animales domésticos, y tiene implicaciones importantes tanto en salud pública como en bienestar animal. A través de esta investigación, se pretende identificar....
+Este proyecto tiene como objetivo analizar los datos relacionados con la esterilización de caninos y felinos durante el año 2021. La esterilización es una práctica fundamental para el control poblacional de animales domésticos, y tiene implicaciones importantes tanto en salud pública como en bienestar animal.
 
 # ¿Cuántas esterilizaciones se realizaron en total durante 2022?
 
